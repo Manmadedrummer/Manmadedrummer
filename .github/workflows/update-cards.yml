@@ -24,3 +24,10 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           THEME: tokyonight
+
+      - uses: rickstaa/github-readme-stats-action@v1
+        with:
+          token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          card: top-langs
+          options: "username=Manmadedrummer&layout=compact&langs_count=20&theme=tokyonight&hide_border=true"
+          path: "profile-summary-card-output/tokyonight/top-langs.svg"
