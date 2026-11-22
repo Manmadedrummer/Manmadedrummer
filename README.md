@@ -12,5 +12,5 @@ Indie dev: retro RPGs, arcade games, and WoW server scripting (Lua/AzerothCore).
 
 
 ### 📊 Languages
-![Stats](profile-summary-card-output/tokyonight/3-stats.svg)
-![Top Languages](profile-summary-card-output/tokyonight/top-langs.svg)
+![Stats](profile/stats.svg)
+![Top Languages](profile/top-langs.svg)
