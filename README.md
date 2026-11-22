@@ -11,5 +11,5 @@ Indie dev: retro RPGs, arcade games, and WoW server scripting (Lua/AzerothCore).
 ![AzerothCore](https://img.shields.io/badge/AzerothCore-c0392b)
 
 ### 📊 Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manmadedrummer&layout=compact&theme=tokyonight&hide_border=true)
-![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manmadedrummer&theme=nightowl)
+![Top Languages](profile-summary-card-output/tokyonight/3-stats.svg)
+![Repos per language](profile-summary-card-output/tokyonight/1-repos-per-language.svg)
